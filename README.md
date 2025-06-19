@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello! I'm Nitai Mahat
 
-<!--
-**NitaiMahat/NitaiMahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore @ [Augustana College](https://www.augustana.edu/), majoring in **Computer Science** and **Data Science**  
+📍 Rock Island, IL | 🇳🇵 Originally from Kathmandu, Nepal  
+📈 GPA: 4.0 | Dean's List | Lifelong learner of AI, software engineering, and creative tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm passionate about blending **data-driven insights** with **software development** to solve real-world problems. Whether it’s building machine learning models or creating interactive web apps, I love bringing ideas to life through code.
+
+### 🔭 I’m currently:
+- Working as a **Software Development Intern** at [Attention.ad](https://attention.ad)
+- Enhancing DAO strategies using data science & predictive models
+- Expanding my Python and full-stack development skills
+
+### 🛠️ Tech Stack
+```Java
+Languages: Python, Java, JavaScript, C++, SQL, HTML/CSS, MATLAB  
+Tools: Jupyter, IntelliJ, Git, PyCharm, Tkinter, OpenCV, Pandas, NumPy  
