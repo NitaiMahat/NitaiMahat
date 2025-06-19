@@ -21,5 +21,5 @@ Tools: Jupyter, IntelliJ, Git, PyCharm, Tkinter, OpenCV, Pandas, NumPy
 
 ## 🌍 Let's Connect
 
-- 📫 **Email**: [mahatnitai@gmail.com](mailto:mahatnitai@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/nitai-mahat-47079b347](https://www.linkedin.com/in/nitai-mahat-47079b347/)
+- 📫 **Email**: mahatnitai@gmail.com
+- 💼 **LinkedIn**: [NitaiMahat](https://www.linkedin.com/in/nitai-mahat-47079b347/)
