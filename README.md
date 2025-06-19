@@ -15,7 +15,6 @@ I'm passionate about blending **data-driven insights** with **software developme
 - Enhancing DAO strategies using data science & predictive models
 - Expanding my Python and full-stack development skills
 
-### 🛠️ Tech Stack
-```Java
+
 Languages: Python, Java, JavaScript, C++, SQL, HTML/CSS, MATLAB  
 Tools: Jupyter, IntelliJ, Git, PyCharm, Tkinter, OpenCV, Pandas, NumPy  
