@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Nitai Mahat
 
 🎓 Sophomore @ [Augustana College](https://www.augustana.edu/), majoring in **Computer Science** and **Data Science**  
-📍 Rock Island, IL | 🇳🇵 Originally from Kathmandu, Nepal  
+📍 Rock Island, IL
 📈 GPA: 4.0 | Dean's List | Lifelong learner of AI, software engineering, and creative tech solutions
 
 ---
