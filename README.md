@@ -18,3 +18,8 @@ I'm passionate about blending **data-driven insights** with **software developme
 
 Languages: Python, Java, JavaScript, C++, SQL, HTML/CSS, MATLAB  
 Tools: Jupyter, IntelliJ, Git, PyCharm, Tkinter, OpenCV, Pandas, NumPy  
+
+## 🌍 Let's Connect
+
+- 📫 **Email**: [mahatnitai@gmail.com](mailto:mahatnitai@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/nitai-mahat-47079b347](https://www.linkedin.com/in/nitai-mahat-47079b347/)
