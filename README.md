@@ -10,10 +10,7 @@
 
 I'm passionate about blending **data-driven insights** with **software development** to solve real-world problems. Whether it’s building machine learning models or creating interactive web apps, I love bringing ideas to life through code.
 
-### 🔭 I’m currently:
-- Working as a **Software Development Intern** at [Attention.ad](https://attention.ad)
-- Enhancing DAO strategies using data science & predictive models
-- Expanding my Python and full-stack development skills
+
 
 
 Languages: Python, Java, JavaScript, C++, SQL, HTML/CSS, MATLAB  
