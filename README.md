@@ -14,9 +14,9 @@ I'm passionate about blending **data-driven insights** with **software developme
 
 ---
 
-## 🌐 Websites & Projects I’ve Built
+## 🌐 Websites & Projects that are live
   
-- **Personal Website** –   
+- **Personal Website**    
   👉 **[www.nitaipersonalweb.com](https://nitaimahat.github.io/NitaiPersonalWeb/)**
   
 - **GUS Marketplace** – Augustana College student online marketplace  
