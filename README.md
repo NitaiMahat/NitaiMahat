@@ -54,7 +54,8 @@ PostgreSQL, MySQL, MongoDB
 - 🏆 **Kronos Tournament Manager** – Desktop + backend system for managing tournaments  
 - 🏥 **Hospital Management System** – REST API with PostgreSQL integration  
 - 💬 **Real-Time Chat App** – WebSocket-based messaging system  
-- 🤖 **FocusGuard** – On-device ML with ONNX Runtime Web  
+- 🤖 **FocusGuard** – On-device ML with ONNX Runtime Web
+- 🛒 **GUS Marketplace (Frontend & Backend)** – Full-stack platform built with college seniors, supporting real student-to-student commerce 
 
 (See pinned repositories below 👇)
 
