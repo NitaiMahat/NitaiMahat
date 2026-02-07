@@ -36,6 +36,13 @@ I’m especially interested in:
 
 ---
 
+## 🚧 Currently Working On
+
+**Atlas Jobs** – A distributed background job processing system built with Spring Boot and PostgreSQL, featuring retries, idempotency, and dead-letter handling.  
+Models real-world production job queues with asynchronous workers, database locking, and observability.
+
+---
+
 ## 💻 Technical Skills
 
 **Languages:**  
