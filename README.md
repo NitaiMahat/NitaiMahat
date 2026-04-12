@@ -57,11 +57,15 @@ PostgreSQL, MySQL, MongoDB
 
 ## 📌 Featured Projects
 
-- 🏆 **Kronos Tournament Manager** – Desktop + backend system for managing tournaments  
-- 🏥 **Hospital Management System** – REST API with PostgreSQL integration  
-- 💬 **Real-Time Chat App** – WebSocket-based messaging system  
-- 🤖 **FocusGuard** – On-device ML with ONNX Runtime Web
-- 🛒 **GUS Marketplace (Frontend & Backend)** – Full-stack platform built with college seniors, supporting real student-to-student commerce 
+💼 **ApplyWise** – AI-powered application workflow system that automates job tracking, ranking, and personalized content generation using retrieval-based pipelines  
+
+⚙️ **Atlas Jobs** – Distributed background job processing system with retries, idempotency, and concurrent workers using PostgreSQL locking  
+
+💬 **Real-Time Chat App** – WebSocket-based messaging system with real-time communication  
+
+🤖 **FocusGuard** – On-device ML system using ONNX Runtime Web for real-time distraction detection  
+
+🛒 **GUS Marketplace (Frontend & Backend)** – Full-stack platform enabling real student-to-student commerce at Augustana College  
 
 (See pinned repositories below 👇)
 
